@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @W1ldr 🤓 😎
+- 👋🏿 Hi, I’m @W1ldr 🤓 😎
 - 👀 I’m interested in entrepreneurship and technologies 😍 🥰
 - 🌱 I’m currently learning MERN stack and Java ❤️
 - 💞️ I’m looking to collaborate on technological business and community projects 🤠
