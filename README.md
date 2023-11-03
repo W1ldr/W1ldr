@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on technological business and community projects 🤠
 - 📫 to reach me, just mail me 👋 lets change same ideas!!! 
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!---
