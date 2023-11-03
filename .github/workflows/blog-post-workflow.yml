@@ -16,4 +16,4 @@ jobs:
       - name: Pull in w1ldr.github.io posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://w1ldr.github.io/posts"
+          feed_list: "https://w1ldr.github.io/index.xml"
