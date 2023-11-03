@@ -6,6 +6,7 @@
 - 📫 to reach me, just mail me 👋 lets change same ideas!!! 
 
 <!-- BLOG-POST-LIST:START -->
+- [My First Post](https://w1ldr.github.io/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 
