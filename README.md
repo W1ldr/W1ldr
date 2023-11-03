@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on technological business and community projects 🤠
 - 📫 to reach me, just mail me 👋 lets change same ideas!!! 
 
+
+📕 **Latest Blog Posts on [w1ldr](https://w1ldr.github.io/)**
 <!-- BLOG-POST-LIST:START -->
 - [My First Post](https://w1ldr.github.io/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
