@@ -11,7 +11,7 @@
 **📝 I write Articles and Blog Posts on [w1ldr](https://w1ldr.github.io/)**
   
 <!-- BLOG-POST-LIST:START -->
-- [My First Post](https://w1ldr.github.io/posts/my-first-post/)
+- [Switch to Astro](https://w1ldr.github.io/posts/switch-to-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
